@@ -1,0 +1,29 @@
+# Dependency directories
+node_modules/
+# Optional npm cache directory
+.npm
+
+# Environment configuration files
+.env
+
+# Compiled binary addons (if any)
+/build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS generated files
+.DS_Store
+Thumbs.db
